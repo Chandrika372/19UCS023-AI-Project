@@ -1,4 +1,4 @@
-# AI Project 1
+# AI Assignment 1
 # 19UCS023 Chandrika Acharjee
 #Topic: Shake Off the Hurdles
 
